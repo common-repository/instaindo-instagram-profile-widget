@@ -1,0 +1,56 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 250px;
+    text-align: center;
+}
+
+.title_ig_counter {
+    color: grey;
+    font-size: 18px;
+}
+
+button_ig_counter {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    color: white;
+    background-color: #F86737;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.ig_counterdata {
+  margin-top: .6em;
+  color: #81878b; }
+  .ig_counterdata li {
+    width: 32%;
+    text-align: center;
+    display: inline-block;
+    font-size: 1.5em;
+    font-family: 'Lato'; }
+    .ig_counterdata li:last-child {
+      border: none; }
+    .ig_counterdata li span {
+      display: block;
+      text-transform: uppercase;
+      font-family: 'Quicksand';
+      font-size: .5em;
+      margin-top: .6em;
+      font-weight:700;
+    }
+    
+.donate_jamal_plugin {
+	border: 2px solid #ccc;
+	float: right;
+	padding: 11px 16px 17px 19px;
+	width: 14%;
+}
+.donate_jamal_plugin > span {
+    color: #0073aa;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 17px;
+}
